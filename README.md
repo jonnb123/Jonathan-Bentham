@@ -1,4 +1,4 @@
-Below shows my data science projects:                                
+                             
 
 ## [Project 1: Metacritic Bias Detection](https://github.com/jonnb123/MetacriticProject)
 * The most controversial game of 2020, The Last of Us: Part II sparked disparity amongst critics and users around the world and this is evident on Metacritic, the review aggregator website. The game scored 94 out of 100 overall from critics – one of the most highly acclaimed games ever. However, the overall user score was 5.6 out of 10 denoting a low-average review score.
