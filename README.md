@@ -6,5 +6,7 @@ Below shows my data science projects:
 * The first model was trained using an Amazon dataset reviewing fine foods on the Kaggle website.
 * The second model was trained using data scraped from Metacritic using 22 games.
 * An in-depth analysis was carried out using both models on the reviews of three games on Metacritic. One of them being The Last of Us Part II.
-* The Amazon model led to a higher degree of accuracy than the Metacritic model (74% vs 68%).
+* The Amazon model on the left led to a higher degree of accuracy than the Metacritic model on the right (74% vs 68%).
+![](https://github.com/jonnb123/Jonathan-Bentham/blob/main/images/accuracyAmazon.png)
+![](https://github.com/jonnb123/Jonathan-Bentham/blob/main/images/accuracyMetacritic.png)
 * See attached PDF for full report. 
