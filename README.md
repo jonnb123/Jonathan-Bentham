@@ -1,4 +1,3 @@
-# Jonathan Bentham: Portfolio
 Data Science Portfolio
 
 # Project 1: Metacritic Bias Detection
