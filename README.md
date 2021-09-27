@@ -1,4 +1,4 @@
-afasdfasdf
+                                 
 # Jonathan Bentham: Portfolio
 
 ## [Project 1: Metacritic Bias Detection](https://github.com/jonnb123/MetacriticProject)
