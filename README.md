@@ -14,4 +14,4 @@ Below shows my data science projects:
 
 ![](/images/accuracyMetacritic.png)
 
-
+Follow the link for more detail.
