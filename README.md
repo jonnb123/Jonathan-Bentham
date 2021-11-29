@@ -25,3 +25,4 @@ Follow the link for more detail.
 * For logistic regression it is important to remove multicollinearity for the best results.
 * Turnover and Family variables were not taken into account in the model because they create multicolinearity and they are not related to what we are trying to predict (disciplinary action).
 * Overall the model was 75% accurate with its predictions. 
+* Follow the link for more detail.
