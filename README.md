@@ -17,7 +17,7 @@ Below shows my data science projects:
 Follow the link for more detail.
 
 # [Project 2: Firm Disciplinary Action (Logistic Regression)](https://github.com/jonnb123/LogisticRegression)
-* This project looks at whether a law firm needs disciplinary action from a company based off 11 variables. 
+* This project looks at whether a law firm needs disciplinary action from a company based off 11 variables. The data is from the recrutiment process for the solicitors Regulation Authority (SRA).
 * Outliers were removed from the dataset and multicollinearity was examined using a heatmap:
 
 ![](/images/heatMap2.png)
@@ -26,3 +26,19 @@ Follow the link for more detail.
 * Turnover and Family variables were not taken into account in the model because they create multicolinearity and they are not related to what we are trying to predict (disciplinary action).
 * Overall the model was 75% accurate with its predictions. 
 * Follow the link for more detail.
+
+# [Project 3: Diabetic or not? (Exploratory Data Analysis)](https://github.com/jonnb123/DiabetesAnalysis)
+
+* A dataset based around whether a person was diabetic or not was taken from Kaggle (https://www.kaggle.com/). I then carried out an exploratory data analysis to see which variables were related, and which would be suitable to predict whether a person was diabetic.
+* As the majority of variables were binary/cateogrical they could be plotted using countplots:
+
+![](/images/Diabetes2.png)
+
+* Data was then imputed with 1's and 0's in order to make a heatmap to compare all variables and examine multicollinearity.
+* After examining the dataset it was found that Gender, Polyuria, Polydipsia and Alopecia are all related to whether a person is diabetic and would be the best predictors if a model were to be created. 
+* Follow the link for more detail. 
+
+
+
+
+
