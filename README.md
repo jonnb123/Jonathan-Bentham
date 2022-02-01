@@ -14,7 +14,7 @@ Below shows my data science projects:
 
 ![](/images/accuracyMetacritic.png)
 
-Follow the link for more detail.
+* Follow the link for more detail.
 
 # [Project 2: Firm Disciplinary Action (Logistic Regression)](https://github.com/jonnb123/LogisticRegression)
 * This project looks at whether a law firm needs disciplinary action from a company based off 11 variables. The data is from the recrutiment process for the solicitors Regulation Authority (SRA).
@@ -27,7 +27,22 @@ Follow the link for more detail.
 * Overall the model was 75% accurate with its predictions. 
 * Follow the link for more detail.
 
-# [Project 3: Diabetic or not? (Exploratory Data Analysis)](https://github.com/jonnb123/DiabetesAnalysis)
+# [Project 3: What needs work the App or the Website? (Linear Regression)](https://github.com/jonnb123/LinearRegression)
+
+* A company is trying to decide whether to focus their efforts on their mobile app experience or their website. 
+* A linear regression was used on the DataFrame given to predict the yearly amount spent by the company. 
+* This led to a MAE and RMSE of 7.2 and 8.9 respectively, meaning three things:
+* There is some variation in the magnitude of errors.
+* Very large errors are unlikely to have occured.
+* The average distance between the forecast and observed amount was 7.2 dollars. 
+* The coefficients of the model are shown below
+
+![](/images/coefficients.png)
+
+* It was found that the company should focus on their website more. 
+* Follow the link for more detail. 
+
+# [Project 4: Diabetic or not? (Exploratory Data Analysis)](https://github.com/jonnb123/DiabetesAnalysis)
 
 * A dataset based around whether a person was diabetic or not was taken from Kaggle (https://www.kaggle.com/). I then carried out an exploratory data analysis to see which variables were related, and which would be suitable to predict whether a person was diabetic.
 * As the majority of variables were binary/cateogrical they could be plotted using countplots:
