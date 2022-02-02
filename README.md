@@ -16,7 +16,18 @@ Below shows my data science projects:
 
 * Follow the link for more detail.
 
-# [Project 2: Firm Disciplinary Action (Logistic Regression)](https://github.com/jonnb123/LogisticRegression)
+# [Project 2: Classification of Artificial Data using K Nearest Neighbors (KNN)](https://github.com/jonnb123/KNN)
+* This project predicts the class of 10 different conntinuous features using a KNN model.
+* The variables are normalized using sklearn's StandardScaler
+* The classifier is initially run with K = 1 to show the lower precision, recall and f1-score values
+* A plot for error rate vs K value is created to find the value of K with the lowest error:
+
+![](/images/Elbow.png)
+
+* K = 31 is used and presents a far better f1-score than the K = 1 model. 
+* Follow the link for more detail. 
+
+# [Project 3: Firm Disciplinary Action (Logistic Regression)](https://github.com/jonnb123/LogisticRegression)
 * This project looks at whether a law firm needs disciplinary action from a company based off 11 variables. The data is from the recrutiment process for the solicitors Regulation Authority (SRA).
 * Outliers were removed from the dataset and multicollinearity was examined using a heatmap:
 
@@ -27,7 +38,7 @@ Below shows my data science projects:
 * Overall the model was 75% accurate with its predictions. 
 * Follow the link for more detail.
 
-# [Project 3: What needs work the App or the Website? (Linear Regression)](https://github.com/jonnb123/LinearRegression)
+# [Project 4: What needs work the App or the Website? (Linear Regression)](https://github.com/jonnb123/LinearRegression)
 
 * A company is trying to decide whether to focus their efforts on their mobile app experience or their website. 
 * A linear regression was used on the DataFrame given to predict the yearly amount spent by the company. 
@@ -42,7 +53,7 @@ Below shows my data science projects:
 * It was found that the company should focus on their website more. 
 * Follow the link for more detail. 
 
-# [Project 4: Diabetic or not? (Exploratory Data Analysis)](https://github.com/jonnb123/DiabetesAnalysis)
+# [Project 5: Diabetic or not? (Exploratory Data Analysis)](https://github.com/jonnb123/DiabetesAnalysis)
 
 * A dataset based around whether a person was diabetic or not was taken from Kaggle (https://www.kaggle.com/). I then carried out an exploratory data analysis to see which variables were related, and which would be suitable to predict whether a person was diabetic.
 * As the majority of variables were binary/cateogrical they could be plotted using countplots:
