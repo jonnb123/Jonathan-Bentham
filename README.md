@@ -20,7 +20,7 @@ Below shows my data science projects:
 * This project predicts the class of 10 different conntinuous features using a KNN model.
 * The variables are normalized using sklearn's StandardScaler
 * The classifier is initially run with K = 1 to show the lower precision, recall and f1-score values
-* A plot for error rate vs K value is created to find the value of K with the lowest error:
+* An elbow plot for error rate vs K value is created to find the value of K with the lowest error:
 
 ![](/images/Elbow.png)
 
